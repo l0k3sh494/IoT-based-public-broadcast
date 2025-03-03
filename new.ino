@@ -2,8 +2,8 @@
 #include <WebSocketsClient.h>
 #include <NimBLEDevice.h>
 
-const char* ssid = "SSN";
-const char* password = "Ssn1!Som2@Sase3#";
+const char* ssid = " #wifi name ";
+const char* password = " #wifi pass ";
 const char* websocket_server = "10.17.65.5";
 const uint16_t websocket_port = 8080;
 
